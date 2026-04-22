@@ -1,0 +1,12 @@
+@font-face {
+  font-family: '29LTBukra-Light';
+  src: url('29LTBukra-Light.eot');
+  src: url('29LTBukra-Light.eot?#iefix') format('embedded-opentype'),
+       url('29LTBukra-Light.svg#29LTBukra-Light') format('svg'),
+       url('29LTBukra-Light.ttf') format('truetype'),
+       url('29LTBukra-Light.woff') format('woff'),
+       url('29LTBukra-Light.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

@@ -1,0 +1,37 @@
+﻿.is-invalid .multiselect__tags {
+    border-color: #dc3545;
+}
+
+.multiselect__input {
+    background: #FAFAFA;
+}
+
+.multiselect__tag-icon:after {
+    color: white;
+}
+
+.multiselect__tags {
+    min-height: 50px;
+    padding: .4rem 1rem;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #FAFAFA;
+    border: 1px solid #E4E6EF;
+    border-radius: 15px;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.multiselect__option--highlight, .multiselect__tag, .multiselect__tag-icon:focus, .multiselect__tag-icon:hover {
+    background: #3a4b9d;
+}
+
+.multiselect__content-wrapper {
+    background: #fafafa;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.multiselect__content {
+    background: white;
+}

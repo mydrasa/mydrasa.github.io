@@ -1,0 +1,14 @@
+﻿.b-form-spinbutton output > div, .b-form-spinbutton output > bdi {
+    width: 100%;
+    text-align: center;
+}
+
+.b-calendar-grid-body {
+    min-height: 230px;
+}
+
+.nav-pills .nav-link {
+    border-radius: 0.45rem;
+    background: #2276b442;
+    margin: 0 5px;
+}

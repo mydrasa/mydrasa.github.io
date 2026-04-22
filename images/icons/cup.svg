@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="cup.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="34.436887"
+     inkscape:cy="28.565745"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-284.29998)">
+    <g
+       transform="matrix(0.1645446,0,0,0.1645446,-0.22854259,284.3)"
+       data-name="Group 228"
+       id="Group_228">
+      <path
+         transform="rotate(-77.933,42.889214,34.6895)"
+         d="M 33.823,-0.018 A 33.7,33.7 0 1 1 -0.018,33.7 33.715,33.715 0 0 1 33.823,-0.018 Z"
+         data-name="Path 371"
+         id="Path_371"
+         inkscape:connector-curvature="0"
+         style="fill:#495e6e" />
+      <g
+         transform="translate(15.669)"
+         data-name="Group 226"
+         id="Group_226">
+        <g
+           data-name="Group 191"
+           id="Group_191">
+          <path
+             transform="translate(-320.965,-38.717)"
+             d="m 369.181,41.453 -0.046,-1.025 -8.069,0.006 -4.771,5.387 c -4.646,2.8 -4.085,16.473 -4.006,18.042 l 0.065,1.263 1.234,-0.27 C 360.355,63.377 365.2,58.833 367.6,51.719 a 31.062,31.062 0 0 0 1.581,-10.266 z m -15.114,20.94 c -0.13,-5.524 0.876,-13.45 3.411,-14.778 l 0.175,-0.091 4.38,-4.946 h 5 c -0.104,3.722 -1.619,16.476 -12.967,19.815 z"
+             data-name="Path 115"
+             id="Path_115"
+             inkscape:connector-curvature="0"
+             style="fill:#fab748" />
+          <path
+             transform="translate(-262.71,-38.717)"
+             d="m 275.606,45.821 -4.77,-5.387 -8.069,-0.006 -0.046,1.025 a 31.05,31.05 0 0 0 1.579,10.265 c 2.4,7.114 7.245,11.658 14.012,13.137 l 1.235,0.27 0.065,-1.263 c 0.081,-1.568 0.641,-15.244 -4.006,-18.041 z m 2.23,16.573 a 16.786,16.786 0 0 1 -11.482,-11.3 29.839,29.839 0 0 1 -1.488,-8.519 h 5 l 4.38,4.946 0.175,0.091 c 2.539,1.331 3.544,9.257 3.414,14.781 z"
+             data-name="Path 116"
+             id="Path_116"
+             inkscape:connector-curvature="0"
+             style="fill:#fab748" />
+          <path
+             transform="translate(-265.157,-42.669)"
+             d="m 268.807,55.021 a 29.878,29.878 0 0 1 -1.489,-8.516 h -0.847 a 29.919,29.919 0 0 0 2.329,11.11 c 2.358,5.452 8.182,9.174 13.064,10.222 l -1.581,-1.492 A 16.807,16.807 0 0 1 268.807,55.021 Z"
+             data-name="Path 117"
+             id="Path_117"
+             inkscape:connector-curvature="0"
+             style="fill:#f4a148" />
+          <path
+             transform="translate(-321.445,-42.669)"
+             d="M 366.021,55.021 A 29.863,29.863 0 0 0 367.51,46.5 h 0.848 a 29.925,29.925 0 0 1 -2.329,11.114 c -2.359,5.452 -8.182,9.174 -13.065,10.222 l 1.581,-1.492 a 16.806,16.806 0 0 0 11.476,-11.323 z"
+             data-name="Path 118"
+             id="Path_118"
+             inkscape:connector-curvature="0"
+             style="fill:#f4a148" />
+          <path
+             transform="translate(-283.946,-35.529)"
+             d="m 320.737,37.326 a 45.614,45.614 0 0 0 -25.355,0 c -0.6,18.243 5.673,29.233 12.677,29.255 7.005,-0.022 13.277,-11.012 12.678,-29.255 z"
+             data-name="Path 119"
+             id="Path_119"
+             inkscape:connector-curvature="0"
+             style="fill:#fab748" />
+          <path
+             transform="translate(-285.399,-39.681)"
+             d="m 300.817,41.909 a 26.551,26.551 0 0 0 -3.212,0.78 48.923,48.923 0 0 0 0.466,8.881 l 3.238,-1.111 a 48.462,48.462 0 0 1 -0.492,-8.55 z"
+             data-name="Path 120"
+             id="Path_120"
+             inkscape:connector-curvature="0"
+             style="fill:#fbc56d" />
+          <path
+             transform="translate(-288.264,-62.542)"
+             d="m 304.64,77.039 -2.663,0.513 c 1.111,9.4 4.975,14.25 8.413,14.928 0.821,0.162 3.15,0.645 4.054,-0.19 -0.065,0.003 -9.387,-1.508 -9.804,-15.251 z"
+             data-name="Path 121"
+             id="Path_121"
+             inkscape:connector-curvature="0"
+             style="fill:#fbc56d" />
+          <g
+             transform="translate(11.585,27.084)"
+             data-name="Group 190"
+             id="Group_190">
+            <path
+               transform="translate(-295.884,-136.484)"
+               d="m 320.94,159.627 -1.5,-8.922 -11.031,-1.663 -11.029,1.663 -1.5,8.922 0.085,0.009 a 1.116,1.116 0 0 0 -0.085,0.413 c 0,1.992 5.609,3.607 12.528,3.607 6.919,0 12.529,-1.614 12.529,-3.607 a 1.122,1.122 0 0 0 -0.084,-0.413 z"
+               data-name="Path 122"
+               id="Path_122"
+               inkscape:connector-curvature="0"
+               style="fill:#903b0e" />
+            <path
+               transform="translate(-328.437,-136.938)"
+               d="m 353.494,160.042 -1.5,-8.924 -6.089,-1.378 0.673,13.945 c 4.1,-0.592 6.914,-1.811 6.914,-3.222 a 1.12,1.12 0 0 0 -0.084,-0.415 z"
+               data-name="Path 123"
+               id="Path_123"
+               inkscape:connector-curvature="0"
+               style="fill:#6c2c0b" />
+            <path
+               transform="translate(-302.746,-137.166)"
+               d="m 307.915,150.685 -1.486,12.59 a 27.188,27.188 0 0 0 3.792,0.7 l 1.639,-13.882 z"
+               data-name="Path 124"
+               id="Path_124"
+               inkscape:connector-curvature="0"
+               style="opacity:0.4;fill:#a6623e" />
+            <path
+               transform="translate(-298.676,-136.326)"
+               d="m 322.234,150.692 c 0,1.045 -4.939,1.89 -11.031,1.89 -6.092,0 -11.029,-0.845 -11.029,-1.89 0,-1.045 4.938,-1.892 11.029,-1.892 6.091,0 11.031,0.846 11.031,1.892 z"
+               data-name="Path 125"
+               id="Path_125"
+               inkscape:connector-curvature="0"
+               style="fill:#6c2c0b" />
+            <g
+               transform="translate(4.21,7.964)"
+               data-name="Group 189"
+               id="Group_189">
+              <path
+                 transform="translate(-307.94,-137.214)"
+                 d="m 324.575,142.931 -0.994,-4.217 -7.323,-0.787 -7.322,0.787 -0.936,4.222 a 0.4,0.4 0 0 0 -0.059,0.2 c 0,0.941 3.724,1.7 8.317,1.7 4.593,0 8.318,-0.763 8.318,-1.7 a 0.4,0.4 0 0 0 -0.057,-0.2 z"
+                 data-name="Path 126"
+                 id="Path_126"
+                 inkscape:connector-curvature="0"
+                 style="fill:#db822a" />
+              <path
+                 transform="translate(-309.794,-135.886)"
+                 d="m 325.435,137.386 c 0,0.829 -3.278,1.5 -7.324,1.5 -4.046,0 -7.322,-0.672 -7.322,-1.5 0,-0.828 3.279,-1.5 7.322,-1.5 4.043,0 7.324,0.672 7.324,1.5 z"
+                 data-name="Path 127"
+                 id="Path_127"
+                 inkscape:connector-curvature="0"
+                 style="fill:#fab748" />
+            </g>
+            <path
+               transform="translate(-312.723,-113.082)"
+               d="m 327.6,113.082 h -4.7 c 0,0 1.92,5.891 -1.137,9.584 a 12.865,12.865 0 0 0 3.515,0.438 9.283,9.283 0 0 0 3.655,-0.461 c -3.061,-3.694 -1.333,-9.561 -1.333,-9.561 z"
+               data-name="Path 128"
+               id="Path_128"
+               inkscape:connector-curvature="0"
+               style="fill:#fab748" />
+            <path
+               transform="translate(-306.688,-132.52)"
+               d="m 313.62,142.951 -1.134,4.45 a 9.082,9.082 0 0 0 2.3,0.442 l 0.917,-4.543 z"
+               data-name="Path 129"
+               id="Path_129"
+               inkscape:connector-curvature="0"
+               style="fill:#e29b55" />
+          </g>
+        </g>
+        <g
+           transform="translate(5.087,35.648)"
+           data-name="Group 208"
+           id="Group_208">
+          <path
+             transform="translate(-277.277,-149.541)"
+             d="m 278.939,155.947 -1.662,2.185 c 0,0 4.729,7.982 4.952,8.485 v 6.026 h 6.436 l -1.048,-5.224 c 0,0 1.56,-5.165 -0.935,-6.837 -3.282,-2.203 -7.743,-4.635 -7.743,-4.635 z"
+             data-name="Path 130"
+             id="Path_130"
+             inkscape:connector-curvature="0"
+             style="fill:#ffcc90" />
+          <path
+             transform="translate(-284.603,-174.4)"
+             d="m 297.476,198.125 h -8.942 v -3.977 l 8.683,0.246 z"
+             data-name="Path 131"
+             id="Path_131"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+          <g
+             transform="translate(1.529)"
+             data-name="Group 192"
+             id="Group_192">
+            <path
+               transform="translate(-281.656,-141.152)"
+               d="m 283.446,148.934 a 1.09,1.09 0 0 1 -1.532,0.016 v 0 c -0.495,-0.413 -0.125,-1.391 -0.125,-1.391 l 3.255,-4.181 a 1.09,1.09 0 0 1 1.532,-0.016 v 0 a 1.09,1.09 0 0 1 0.259,1.51 z"
+               data-name="Path 132"
+               id="Path_132"
+               inkscape:connector-curvature="0"
+               style="fill:#ffcc90" />
+            <path
+               transform="translate(-287.575,-137.603)"
+               d="m 292.188,141.74 a 1.089,1.089 0 0 1 -1.346,-0.731 v 0 a 1.089,1.089 0 0 1 0.507,-1.445 l 4.936,-1.9 a 1.091,1.091 0 0 1 1.347,0.73 v 0 a 1.09,1.09 0 0 1 -0.508,1.446 z"
+               data-name="Path 133"
+               id="Path_133"
+               inkscape:connector-curvature="0"
+               style="fill:#ffcc90" />
+          </g>
+          <path
+             transform="translate(-282.879,-138.507)"
+             d="m 290.1,141.426 5.474,-2.071 a 1.035,1.035 0 0 0 0.466,-0.364 c 0,0 -6.389,2.113 -6.5,2.255 -0.945,1.209 -3.656,4.878 -3.656,4.878 a 1.042,1.042 0 0 0 0.49,-0.313 z"
+             data-name="Path 134"
+             id="Path_134"
+             inkscape:connector-curvature="0"
+             style="fill:#f6b968" />
+          <g
+             transform="translate(2.78,0.485)"
+             data-name="Group 193"
+             id="Group_193">
+            <path
+               transform="translate(-285.236,-143.005)"
+               d="m 287.491,151.806 a 1.233,1.233 0 0 1 -1.733,0.018 v 0 a 1.234,1.234 0 0 1 -0.293,-1.708 l 3.834,-4.595 a 1.234,1.234 0 0 1 1.733,-0.018 v 0 a 1.233,1.233 0 0 1 0.292,1.708 z"
+               data-name="Path 135"
+               id="Path_135"
+               inkscape:connector-curvature="0"
+               style="fill:#ffcc90" />
+            <path
+               transform="translate(-292.361,-138.991)"
+               d="m 297.811,143.669 a 1.233,1.233 0 0 1 -1.523,-0.826 v 0 a 1.234,1.234 0 0 1 0.574,-1.635 l 5.583,-2.152 a 1.233,1.233 0 0 1 1.523,0.826 v 0 a 1.234,1.234 0 0 1 -0.574,1.635 z"
+               data-name="Path 136"
+               id="Path_136"
+               inkscape:connector-curvature="0"
+               style="fill:#ffcc90" />
+          </g>
+          <path
+             transform="translate(-286.894,-142.775)"
+             d="m 295.507,147.8 5.221,-2.013 a 0.97,0.97 0 0 0 0.345,-0.232 l -5.66,1.812 c -0.009,0 -0.017,0.009 -0.025,0.013 a 0.988,0.988 0 0 0 -0.413,0.286 l -2.921,3.874 c 0.234,-0.043 0.124,0.118 0.278,-0.067 z"
+             data-name="Path 137"
+             id="Path_137"
+             inkscape:connector-curvature="0"
+             style="fill:#f6b968" />
+          <g
+             transform="translate(5.161,3.117)"
+             data-name="Group 194"
+             id="Group_194">
+            <path
+               transform="translate(-292.054,-149.162)"
+               d="m 293.965,156.231 a 1.08,1.08 0 0 1 -1.514,-0.086 v 0 a 1.079,1.079 0 0 1 -0.156,-1.508 l 3.616,-3.79 a 1.08,1.08 0 0 1 1.514,0.086 v 0 a 1.08,1.08 0 0 1 0.156,1.509 z"
+               data-name="Path 138"
+               id="Path_138"
+               inkscape:connector-curvature="0"
+               style="fill:#ffcc90" />
+            <path
+               transform="translate(-298.977,-146.527)"
+               d="m 303.983,150.124 a 1.079,1.079 0 0 1 -1.245,-0.865 v 0 a 1.079,1.079 0 0 1 0.656,-1.368 l 5.064,-1.336 a 1.079,1.079 0 0 1 1.245,0.865 v 0 a 1.08,1.08 0 0 1 -0.657,1.367 z"
+               data-name="Path 139"
+               id="Path_139"
+               inkscape:connector-curvature="0"
+               style="fill:#ffcc90" />
+          </g>
+          <path
+             transform="translate(-290.648,-147.583)"
+             d="m 301.107,154.219 4.771,-1.259 c 0.167,-0.043 -0.316,-0.009 -0.523,0 a 27.3,27.3 0 0 0 -4.526,1.094 l -3.006,3.3 c 0,0 0.145,0.144 0.262,0.04 z"
+             data-name="Path 140"
+             id="Path_140"
+             inkscape:connector-curvature="0"
+             style="fill:#f6b968" />
+          <g
+             transform="translate(7.01,5.703)"
+             data-name="Group 195"
+             id="Group_195">
+            <path
+               transform="translate(-297.349,-156.106)"
+               d="m 299,162.154 a 0.952,0.952 0 0 1 -1.332,-0.139 v 0 a 0.953,0.953 0 0 1 -0.075,-1.338 l 3.35,-3.193 a 0.954,0.954 0 0 1 1.333,0.139 v 0 a 0.955,0.955 0 0 1 0.075,1.339 z"
+               data-name="Path 141"
+               id="Path_141"
+               inkscape:connector-curvature="0"
+               style="fill:#ffcc90" />
+            <path
+               transform="translate(-303.553,-153.934)"
+               d="m 308.019,157.1 a 0.953,0.953 0 0 1 -1.1,-0.769 v 0 a 0.953,0.953 0 0 1 0.585,-1.206 l 4.48,-1.162 a 0.954,0.954 0 0 1 1.1,0.77 v 0 a 0.954,0.954 0 0 1 -0.585,1.206 z"
+               data-name="Path 142"
+               id="Path_142"
+               inkscape:connector-curvature="0"
+               style="fill:#ffcc90" />
+          </g>
+          <path
+             transform="translate(-294.64,-137.837)"
+             d="m 305.114,137.962 a 0.785,0.785 0 0 1 0.172,0.254 v 0 0 0 a 0.8,0.8 0 0 1 0.057,0.3 3.885,3.885 0 0 1 -1.177,0.365 0.2,0.2 0 0 1 -0.193,-0.124 v 0 a 0.2,0.2 0 0 1 0.05,-0.225 3.876,3.876 0 0 1 1.091,-0.57 z"
+             data-name="Path 143"
+             id="Path_143"
+             inkscape:connector-curvature="0"
+             style="fill:#ffe0bc" />
+          <path
+             transform="translate(-299.451,-138.802)"
+             d="m 312.642,139.446 a 1.174,1.174 0 0 1 0.217,0.341 v 0 0 0 a 1.184,1.184 0 0 1 0.087,0.394 3.746,3.746 0 0 1 -1.338,0.393 0.268,0.268 0 0 1 -0.232,-0.174 v 0 0 0 a 0.271,0.271 0 0 1 0.043,-0.288 3.747,3.747 0 0 1 1.223,-0.666 z"
+             data-name="Path 144"
+             id="Path_144"
+             inkscape:connector-curvature="0"
+             style="fill:#ffe0bc" />
+          <path
+             transform="translate(-302.44,-143.454)"
+             d="m 317.256,146.593 a 2.1,2.1 0 0 1 0.239,0.488 v 0 0 0 a 2.111,2.111 0 0 1 0.1,0.532 2.846,2.846 0 0 1 -1.378,0.253 0.4,0.4 0 0 1 -0.248,-0.272 v 0 0 0 a 0.406,0.406 0 0 1 0.034,-0.368 2.844,2.844 0 0 1 1.253,-0.633 z"
+             data-name="Path 145"
+             id="Path_145"
+             inkscape:connector-curvature="0"
+             style="fill:#ffe0bc" />
+          <path
+             transform="translate(-304.169,-148.506)"
+             d="m 319.955,154.357 a 1.978,1.978 0 0 1 0.211,0.484 v 0 0.006 0 a 2,2 0 0 1 0.076,0.522 2.917,2.917 0 0 1 -1.387,0.192 0.383,0.383 0 0 1 -0.232,-0.275 v 0 c 0,0 0,0 0,0 v 0 0 a 0.391,0.391 0 0 1 0.053,-0.358 2.915,2.915 0 0 1 1.279,-0.571 z"
+             data-name="Path 146"
+             id="Path_146"
+             inkscape:connector-curvature="0"
+             style="fill:#ffe0bc" />
+          <g
+             transform="translate(4.952,2.051)"
+             data-name="Group 196"
+             id="Group_196">
+            <path
+               transform="translate(-291.457,-143.919)"
+               d="m 292.145,144.828 a 0.1,0.1 0 0 0 -0.025,-0.136 l -0.511,-0.5 a 0.1,0.1 0 0 0 -0.135,-0.02 v 0 a 0.1,0.1 0 0 0 0.026,0.136 l 0.509,0.5 a 0.1,0.1 0 0 0 0.135,0.021 z"
+               data-name="Path 147"
+               id="Path_147"
+               inkscape:connector-curvature="0"
+               style="fill:#ffe0bc" />
+            <path
+               transform="translate(-291.884,-143.475)"
+               d="m 292.8,144.145 a 0.1,0.1 0 0 0 -0.025,-0.136 l -0.509,-0.5 a 0.1,0.1 0 0 0 -0.137,-0.02 v 0 c -0.031,0.031 -0.02,0.092 0.025,0.136 l 0.51,0.5 a 0.1,0.1 0 0 0 0.137,0.02 z"
+               data-name="Path 148"
+               id="Path_148"
+               inkscape:connector-curvature="0"
+               style="fill:#ffe0bc" />
+          </g>
+          <g
+             transform="translate(6.776,3.191)"
+             data-name="Group 197"
+             id="Group_197">
+            <path
+               transform="translate(-296.68,-147.121)"
+               d="m 297.222,148 a 0.094,0.094 0 0 0 0,-0.129 l -0.393,-0.506 a 0.09,0.09 0 0 0 -0.124,-0.03 v 0 a 0.092,0.092 0 0 0 0,0.129 l 0.392,0.505 a 0.092,0.092 0 0 0 0.124,0.03 z"
+               data-name="Path 149"
+               id="Path_149"
+               inkscape:connector-curvature="0"
+               style="fill:#ffe0bc" />
+            <path
+               transform="translate(-297.165,-146.74)"
+               d="m 297.967,147.418 a 0.094,0.094 0 0 0 0,-0.13 l -0.392,-0.5 a 0.093,0.093 0 0 0 -0.126,-0.03 v 0 a 0.092,0.092 0 0 0 0,0.129 l 0.392,0.506 a 0.092,0.092 0 0 0 0.125,0.03 z"
+               data-name="Path 150"
+               id="Path_150"
+               inkscape:connector-curvature="0"
+               style="fill:#ffe0bc" />
+          </g>
+          <g
+             transform="translate(10.533,1.941)"
+             data-name="Group 198"
+             id="Group_198">
+            <path
+               transform="translate(-307.437,-143.506)"
+               d="m 307.932,144.4 a 0.094,0.094 0 0 0 0.012,-0.129 l -0.354,-0.533 a 0.091,0.091 0 0 0 -0.122,-0.039 v 0 a 0.093,0.093 0 0 0 -0.01,0.129 l 0.352,0.533 a 0.092,0.092 0 0 0 0.122,0.039 z"
+               data-name="Path 151"
+               id="Path_151"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+            <path
+               transform="translate(-307.95,-143.162)"
+               d="m 308.72,143.874 a 0.094,0.094 0 0 0 0.011,-0.129 l -0.353,-0.533 a 0.091,0.091 0 0 0 -0.123,-0.039 v 0 a 0.092,0.092 0 0 0 -0.01,0.127 l 0.354,0.534 a 0.091,0.091 0 0 0 0.121,0.039 z"
+               data-name="Path 152"
+               id="Path_152"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+          </g>
+          <g
+             transform="translate(12.328,3.995)"
+             data-name="Group 199"
+             id="Group_199">
+            <path
+               transform="translate(-312.576,-149.351)"
+               d="m 313.028,150.256 a 0.094,0.094 0 0 0 0.02,-0.128 l -0.317,-0.556 a 0.09,0.09 0 0 0 -0.118,-0.047 v 0 a 0.092,0.092 0 0 0 -0.019,0.128 l 0.316,0.556 a 0.092,0.092 0 0 0 0.119,0.048 z"
+               data-name="Path 153"
+               id="Path_153"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+            <path
+               transform="translate(-313.11,-149.043)"
+               d="m 313.848,149.782 a 0.094,0.094 0 0 0 0.02,-0.128 l -0.316,-0.555 a 0.092,0.092 0 0 0 -0.12,-0.048 v 0 a 0.092,0.092 0 0 0 -0.02,0.128 l 0.317,0.556 a 0.092,0.092 0 0 0 0.118,0.047 z"
+               data-name="Path 154"
+               id="Path_154"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+          </g>
+          <g
+             transform="translate(13.285,6.404)"
+             data-name="Group 200"
+             id="Group_200">
+            <path
+               transform="translate(-315.318,-156.226)"
+               d="m 315.738,157.135 a 0.1,0.1 0 0 0 0.026,-0.127 l -0.291,-0.57 a 0.091,0.091 0 0 0 -0.117,-0.053 v 0 a 0.092,0.092 0 0 0 -0.025,0.126 l 0.29,0.57 a 0.092,0.092 0 0 0 0.117,0.053 z"
+               data-name="Path 155"
+               id="Path_155"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+            <path
+               transform="translate(-315.867,-155.942)"
+               d="m 316.581,156.7 a 0.093,0.093 0 0 0 0.026,-0.126 l -0.29,-0.569 a 0.091,0.091 0 0 0 -0.117,-0.054 v 0 a 0.093,0.093 0 0 0 -0.026,0.127 l 0.29,0.57 a 0.092,0.092 0 0 0 0.117,0.052 z"
+               data-name="Path 156"
+               id="Path_156"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+          </g>
+          <g
+             transform="translate(7.993,0.877)"
+             data-name="Group 201"
+             id="Group_201">
+            <path
+               transform="translate(-300.164,-140.478)"
+               d="m 300.537,141.166 a 0.076,0.076 0 0 0 0.025,-0.1 l -0.257,-0.362 a 0.073,0.073 0 0 0 -0.1,-0.01 v 0 a 0.076,0.076 0 0 0 -0.024,0.1 l 0.257,0.362 a 0.075,0.075 0 0 0 0.1,0.01 z"
+               data-name="Path 157"
+               id="Path_157"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+            <path
+               transform="translate(-300.662,-140.116)"
+               d="m 301.3,140.608 a 0.077,0.077 0 0 0 0.025,-0.1 l -0.257,-0.362 a 0.075,0.075 0 0 0 -0.106,-0.009 v 0 a 0.076,0.076 0 0 0 -0.024,0.1 l 0.258,0.362 a 0.074,0.074 0 0 0 0.1,0.01 z"
+               data-name="Path 158"
+               id="Path_158"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+          </g>
+          <g
+             transform="translate(3.722,7.867)"
+             data-name="Group 202"
+             id="Group_202">
+            <path
+               transform="translate(-287.935,-160.639)"
+               d="m 288.638,161.422 a 0.094,0.094 0 0 0 -0.037,-0.124 l -0.527,-0.364 a 0.09,0.09 0 0 0 -0.127,0.008 v 0 a 0.093,0.093 0 0 0 0.038,0.123 l 0.526,0.364 a 0.091,0.091 0 0 0 0.128,-0.008 z"
+               data-name="Path 159"
+               id="Path_159"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+            <path
+               transform="translate(-288.284,-160.131)"
+               d="m 289.174,160.639 a 0.094,0.094 0 0 0 -0.038,-0.124 l -0.525,-0.363 a 0.091,0.091 0 0 0 -0.129,0.008 v 0 a 0.092,0.092 0 0 0 0.037,0.123 l 0.526,0.364 a 0.091,0.091 0 0 0 0.128,-0.009 z"
+               data-name="Path 160"
+               id="Path_160"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+          </g>
+          <g
+             transform="translate(5.694,9.025)"
+             data-name="Group 203"
+             id="Group_203">
+            <path
+               transform="translate(-293.581,-163.981)"
+               d="m 294.315,164.729 a 0.094,0.094 0 0 0 -0.046,-0.12 l -0.552,-0.324 a 0.091,0.091 0 0 0 -0.127,0.018 v 0 a 0.093,0.093 0 0 0 0.047,0.121 l 0.551,0.324 a 0.092,0.092 0 0 0 0.127,-0.019 z"
+               data-name="Path 161"
+               id="Path_161"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+            <path
+               transform="translate(-293.89,-163.447)"
+               d="m 294.79,163.908 a 0.094,0.094 0 0 0 -0.046,-0.121 l -0.551,-0.323 a 0.092,0.092 0 0 0 -0.128,0.018 v 0 a 0.093,0.093 0 0 0 0.047,0.12 l 0.551,0.324 a 0.091,0.091 0 0 0 0.127,-0.018 z"
+               data-name="Path 162"
+               id="Path_162"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+          </g>
+          <g
+             transform="translate(8.07,10.271)"
+             data-name="Group 204"
+             id="Group_204">
+            <path
+               transform="translate(-300.386,-167.418)"
+               d="m 300.944,168.01 a 0.073,0.073 0 0 0 -0.032,-0.094 l -0.419,-0.265 a 0.071,0.071 0 0 0 -0.1,0.01 v 0 a 0.072,0.072 0 0 0 0.034,0.094 l 0.418,0.266 a 0.071,0.071 0 0 0 0.1,-0.011 z"
+               data-name="Path 163"
+               id="Path_163"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+            <path
+               transform="translate(-300.64,-167.013)"
+               d="m 301.335,167.387 a 0.072,0.072 0 0 0 -0.033,-0.094 l -0.418,-0.265 a 0.071,0.071 0 0 0 -0.1,0.01 v 0 a 0.071,0.071 0 0 0 0.033,0.094 l 0.418,0.265 a 0.071,0.071 0 0 0 0.1,-0.011 z"
+               data-name="Path 164"
+               id="Path_164"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+          </g>
+          <g
+             transform="translate(1.673,6.627)"
+             data-name="Group 205"
+             id="Group_205">
+            <path
+               transform="translate(-282.067,-157.075)"
+               d="m 282.549,157.729 a 0.077,0.077 0 0 0 -0.007,-0.107 l -0.354,-0.269 a 0.074,0.074 0 0 0 -0.1,0.022 v 0 a 0.076,0.076 0 0 0 0.009,0.106 l 0.352,0.269 a 0.075,0.075 0 0 0 0.1,-0.022 z"
+               data-name="Path 165"
+               id="Path_165"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+            <path
+               transform="translate(-282.435,-156.579)"
+               d="m 283.115,156.967 a 0.078,0.078 0 0 0 -0.008,-0.107 l -0.353,-0.268 a 0.075,0.075 0 0 0 -0.1,0.022 v 0 a 0.076,0.076 0 0 0 0.008,0.106 l 0.353,0.269 a 0.075,0.075 0 0 0 0.1,-0.022 z"
+               data-name="Path 166"
+               id="Path_166"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+          </g>
+          <g
+             transform="translate(9.131,4.704)"
+             data-name="Group 206"
+             id="Group_206">
+            <path
+               transform="translate(-303.424,-151.42)"
+               d="m 303.924,152.316 a 0.094,0.094 0 0 0 0.01,-0.129 l -0.358,-0.53 a 0.09,0.09 0 0 0 -0.122,-0.038 v 0 a 0.092,0.092 0 0 0 -0.009,0.128 l 0.357,0.53 a 0.092,0.092 0 0 0 0.122,0.038 z"
+               data-name="Path 167"
+               id="Path_167"
+               inkscape:connector-curvature="0"
+               style="fill:#ffe0bc" />
+            <path
+               transform="translate(-303.933,-151.072)"
+               d="m 304.708,151.781 a 0.094,0.094 0 0 0 0.01,-0.129 l -0.358,-0.529 a 0.092,0.092 0 0 0 -0.123,-0.039 v 0 a 0.093,0.093 0 0 0 -0.01,0.129 l 0.358,0.531 a 0.092,0.092 0 0 0 0.122,0.038 z"
+               data-name="Path 168"
+               id="Path_168"
+               inkscape:connector-curvature="0"
+               style="fill:#ffe0bc" />
+          </g>
+          <g
+             transform="translate(10.694,7.165)"
+             data-name="Group 207"
+             id="Group_207">
+            <path
+               transform="translate(-307.898,-158.442)"
+               d="m 308.368,159.344 a 0.093,0.093 0 0 0 0.016,-0.128 l -0.332,-0.547 a 0.091,0.091 0 0 0 -0.121,-0.044 v 0 a 0.093,0.093 0 0 0 -0.015,0.128 l 0.331,0.547 a 0.092,0.092 0 0 0 0.12,0.043 z"
+               data-name="Path 169"
+               id="Path_169"
+               inkscape:connector-curvature="0"
+               style="fill:#ffe0bc" />
+            <path
+               transform="translate(-308.423,-158.119)"
+               d="m 309.175,158.847 a 0.094,0.094 0 0 0 0.016,-0.129 l -0.332,-0.546 a 0.093,0.093 0 0 0 -0.121,-0.044 v 0 a 0.093,0.093 0 0 0 -0.016,0.128 l 0.332,0.547 a 0.092,0.092 0 0 0 0.12,0.044 z"
+               data-name="Path 170"
+               id="Path_170"
+               inkscape:connector-curvature="0"
+               style="fill:#ffe0bc" />
+          </g>
+        </g>
+        <g
+           transform="translate(26.56,35.648)"
+           data-name="Group 225"
+           id="Group_225">
+          <path
+             transform="translate(-348.437,-149.541)"
+             d="m 363.354,155.947 1.662,2.185 c 0,0 -4.73,7.982 -4.952,8.485 v 6.026 h -6.435 l 1.048,-5.224 c 0,0 -1.56,-5.165 0.935,-6.837 3.288,-2.203 7.742,-4.635 7.742,-4.635 z"
+             data-name="Path 171"
+             id="Path_171"
+             inkscape:connector-curvature="0"
+             style="fill:#ffcc90" />
+          <path
+             transform="translate(-345.668,-174.4)"
+             d="m 349.374,198.125 h 8.942 v -3.977 l -8.942,0.355 z"
+             data-name="Path 172"
+             id="Path_172"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+          <g
+             transform="translate(4.902)"
+             data-name="Group 209"
+             id="Group_209">
+            <path
+               transform="translate(-361.679,-141.152)"
+               d="m 370.038,148.934 a 1.09,1.09 0 0 0 1.532,0.016 v 0 c 0.495,-0.413 0.125,-1.391 0.125,-1.391 l -3.255,-4.181 a 1.09,1.09 0 0 0 -1.532,-0.016 v 0 a 1.091,1.091 0 0 0 -0.259,1.51 z"
+               data-name="Path 173"
+               id="Path_173"
+               inkscape:connector-curvature="0"
+               style="fill:#ffcc90" />
+            <path
+               transform="translate(-352.798,-137.603)"
+               d="m 358.333,141.74 a 1.09,1.09 0 0 0 1.347,-0.731 v 0 a 1.089,1.089 0 0 0 -0.507,-1.445 l -4.936,-1.9 a 1.09,1.09 0 0 0 -1.347,0.73 v 0 a 1.09,1.09 0 0 0 0.507,1.446 z"
+               data-name="Path 174"
+               id="Path_174"
+               inkscape:connector-curvature="0"
+               style="fill:#ffcc90" />
+          </g>
+          <path
+             transform="translate(-345.127,-138.507)"
+             d="m 354.482,141.426 -5.473,-2.071 a 1.033,1.033 0 0 1 -0.466,-0.364 c 0,0 6.389,2.113 6.5,2.255 0.945,1.209 3.656,4.878 3.656,4.878 a 1.041,1.041 0 0 1 -0.489,-0.313 z"
+             data-name="Path 175"
+             id="Path_175"
+             inkscape:connector-curvature="0"
+             style="fill:#f6b968" />
+          <g
+             transform="translate(2.091,0.485)"
+             data-name="Group 210"
+             id="Group_210">
+            <path
+               transform="translate(-354.793,-143.005)"
+               d="m 364.246,151.806 a 1.233,1.233 0 0 0 1.733,0.018 v 0 a 1.232,1.232 0 0 0 0.293,-1.708 l -3.833,-4.595 a 1.234,1.234 0 0 0 -1.733,-0.018 v 0 a 1.233,1.233 0 0 0 -0.293,1.708 z"
+               data-name="Path 176"
+               id="Path_176"
+               inkscape:connector-curvature="0"
+               style="fill:#ffcc90" />
+            <path
+               transform="translate(-344.749,-138.991)"
+               d="m 351.009,143.669 a 1.232,1.232 0 0 0 1.522,-0.826 v 0 a 1.233,1.233 0 0 0 -0.573,-1.635 l -5.584,-2.152 a 1.233,1.233 0 0 0 -1.523,0.826 v 0 a 1.234,1.234 0 0 0 0.574,1.635 z"
+               data-name="Path 177"
+               id="Path_177"
+               inkscape:connector-curvature="0"
+               style="fill:#ffcc90" />
+          </g>
+          <path
+             transform="translate(-343.234,-142.775)"
+             d="m 351.2,147.8 -5.221,-2.013 a 0.974,0.974 0 0 1 -0.345,-0.232 l 5.661,1.812 0.025,0.013 a 0.992,0.992 0 0 1 0.413,0.286 l 2.92,3.874 c -0.234,-0.043 -0.124,0.118 -0.278,-0.067 z"
+             data-name="Path 178"
+             id="Path_178"
+             inkscape:connector-curvature="0"
+             style="fill:#f6b968" />
+          <g
+             transform="translate(0.648,3.117)"
+             data-name="Group 211"
+             id="Group_211">
+            <path
+               transform="translate(-349.939,-149.162)"
+               d="m 358.8,156.231 a 1.08,1.08 0 0 0 1.514,-0.086 v 0 a 1.079,1.079 0 0 0 0.156,-1.508 l -3.616,-3.79 a 1.08,1.08 0 0 0 -1.514,0.086 v 0 a 1.08,1.08 0 0 0 -0.156,1.509 z"
+               data-name="Path 179"
+               id="Path_179"
+               inkscape:connector-curvature="0"
+               style="fill:#ffcc90" />
+            <path
+               transform="translate(-340.616,-146.527)"
+               d="m 346.382,150.124 a 1.078,1.078 0 0 0 1.245,-0.865 v 0 a 1.079,1.079 0 0 0 -0.656,-1.368 l -5.064,-1.336 a 1.079,1.079 0 0 0 -1.245,0.865 v 0 a 1.079,1.079 0 0 0 0.657,1.367 z"
+               data-name="Path 180"
+               id="Path_180"
+               inkscape:connector-curvature="0"
+               style="fill:#ffcc90" />
+          </g>
+          <path
+             transform="translate(-341.212,-147.583)"
+             d="m 347.332,154.219 -4.771,-1.259 c -0.166,-0.043 0.315,-0.009 0.523,0 a 27.311,27.311 0 0 1 4.526,1.094 l 3,3.3 c 0,0 -0.144,0.144 -0.261,0.04 z"
+             data-name="Path 181"
+             id="Path_181"
+             inkscape:connector-curvature="0"
+             style="fill:#f6b968" />
+          <g
+             transform="translate(0,5.703)"
+             data-name="Group 212"
+             id="Group_212">
+            <path
+               transform="translate(-346.831,-156.106)"
+               d="m 354.753,162.154 a 0.953,0.953 0 0 0 1.333,-0.139 v 0 a 0.953,0.953 0 0 0 0.074,-1.338 l -3.35,-3.193 a 0.955,0.955 0 0 0 -1.334,0.139 v 0 a 0.954,0.954 0 0 0 -0.074,1.339 z"
+               data-name="Path 182"
+               id="Path_182"
+               inkscape:connector-curvature="0"
+               style="fill:#ffcc90" />
+            <path
+               transform="translate(-338.761,-153.934)"
+               d="m 343.866,157.1 a 0.953,0.953 0 0 0 1.1,-0.769 v 0 a 0.953,0.953 0 0 0 -0.585,-1.206 l -4.481,-1.162 a 0.954,0.954 0 0 0 -1.1,0.77 v 0 a 0.953,0.953 0 0 0 0.585,1.206 z"
+               data-name="Path 183"
+               id="Path_183"
+               inkscape:connector-curvature="0"
+               style="fill:#ffcc90" />
+          </g>
+          <path
+             transform="translate(-349.709,-137.837)"
+             d="m 355.814,137.962 a 0.781,0.781 0 0 0 -0.172,0.254 v 0 0 0 a 0.782,0.782 0 0 0 -0.057,0.3 3.881,3.881 0 0 0 1.175,0.365 0.2,0.2 0 0 0 0.193,-0.124 v 0 a 0.2,0.2 0 0 0 -0.05,-0.225 3.865,3.865 0 0 0 -1.089,-0.57 z"
+             data-name="Path 184"
+             id="Path_184"
+             inkscape:connector-curvature="0"
+             style="fill:#ffe0bc" />
+          <path
+             transform="translate(-344.508,-138.802)"
+             d="m 347.9,139.446 a 1.169,1.169 0 0 0 -0.217,0.341 v 0 0 0 a 1.184,1.184 0 0 0 -0.087,0.394 3.744,3.744 0 0 0 1.339,0.393 0.268,0.268 0 0 0 0.232,-0.174 v 0 0 0 a 0.272,0.272 0 0 0 -0.043,-0.288 3.753,3.753 0 0 0 -1.224,-0.666 z"
+             data-name="Path 185"
+             id="Path_185"
+             inkscape:connector-curvature="0"
+             style="fill:#ffe0bc" />
+          <path
+             transform="translate(-341.404,-143.454)"
+             d="m 343.167,146.593 a 2.094,2.094 0 0 0 -0.239,0.488 v 0 0 0 a 2.111,2.111 0 0 0 -0.1,0.532 2.846,2.846 0 0 0 1.378,0.253 0.4,0.4 0 0 0 0.247,-0.272 v 0 0 0 a 0.4,0.4 0 0 0 -0.034,-0.368 2.839,2.839 0 0 0 -1.252,-0.633 z"
+             data-name="Path 186"
+             id="Path_186"
+             inkscape:connector-curvature="0"
+             style="fill:#ffe0bc" />
+          <path
+             transform="translate(-339.703,-148.506)"
+             d="m 340.5,154.357 a 1.979,1.979 0 0 0 -0.211,0.484 v 0 0.006 0 a 1.988,1.988 0 0 0 -0.076,0.522 2.918,2.918 0 0 0 1.387,0.192 0.386,0.386 0 0 0 0.232,-0.275 v 0 c 0,0 0,0 0,0 v 0 0 a 0.39,0.39 0 0 0 -0.054,-0.358 2.911,2.911 0 0 0 -1.278,-0.571 z"
+             data-name="Path 187"
+             id="Path_187"
+             inkscape:connector-curvature="0"
+             style="fill:#ffe0bc" />
+          <g
+             transform="translate(10.693,2.051)"
+             data-name="Group 213"
+             id="Group_213">
+            <path
+               transform="translate(-369.807,-143.919)"
+               d="m 370.054,144.828 a 0.1,0.1 0 0 1 0.025,-0.136 l 0.51,-0.5 a 0.1,0.1 0 0 1 0.136,-0.02 v 0 a 0.1,0.1 0 0 1 -0.026,0.136 l -0.509,0.5 a 0.1,0.1 0 0 1 -0.136,0.021 z"
+               data-name="Path 188"
+               id="Path_188"
+               inkscape:connector-curvature="0"
+               style="fill:#ffe0bc" />
+            <path
+               transform="translate(-369.379,-143.475)"
+               d="m 369.4,144.145 a 0.1,0.1 0 0 1 0.025,-0.136 l 0.51,-0.5 a 0.1,0.1 0 0 1 0.137,-0.02 v 0 a 0.1,0.1 0 0 1 -0.025,0.136 l -0.511,0.5 a 0.1,0.1 0 0 1 -0.135,0.02 z"
+               data-name="Path 189"
+               id="Path_189"
+               inkscape:connector-curvature="0"
+               style="fill:#ffe0bc" />
+          </g>
+          <g
+             transform="translate(8.974,3.191)"
+             data-name="Group 214"
+             id="Group_214">
+            <path
+               transform="translate(-364.945,-147.121)"
+               d="m 365.232,148 a 0.1,0.1 0 0 1 0,-0.129 l 0.393,-0.506 a 0.091,0.091 0 0 1 0.124,-0.03 v 0 a 0.093,0.093 0 0 1 0,0.129 l -0.392,0.505 a 0.093,0.093 0 0 1 -0.125,0.03 z"
+               data-name="Path 190"
+               id="Path_190"
+               inkscape:connector-curvature="0"
+               style="fill:#ffe0bc" />
+            <path
+               transform="translate(-364.459,-146.74)"
+               d="m 364.485,147.418 a 0.094,0.094 0 0 1 0,-0.13 l 0.391,-0.5 a 0.092,0.092 0 0 1 0.125,-0.03 v 0 a 0.092,0.092 0 0 1 0,0.129 l -0.392,0.506 a 0.092,0.092 0 0 1 -0.125,0.03 z"
+               data-name="Path 191"
+               id="Path_191"
+               inkscape:connector-curvature="0"
+               style="fill:#ffe0bc" />
+          </g>
+          <g
+             transform="translate(5.245,1.941)"
+             data-name="Group 215"
+             id="Group_215">
+            <path
+               transform="translate(-354.293,-143.506)"
+               d="m 354.6,144.4 a 0.094,0.094 0 0 1 -0.011,-0.129 l 0.354,-0.533 a 0.09,0.09 0 0 1 0.122,-0.039 v 0 a 0.093,0.093 0 0 1 0.01,0.129 l -0.353,0.533 A 0.092,0.092 0 0 1 354.6,144.4 Z"
+               data-name="Path 192"
+               id="Path_192"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+            <path
+               transform="translate(-353.781,-143.162)"
+               d="m 353.812,143.874 a 0.094,0.094 0 0 1 -0.011,-0.129 l 0.353,-0.533 a 0.091,0.091 0 0 1 0.123,-0.039 v 0 a 0.091,0.091 0 0 1 0.011,0.127 l -0.353,0.534 a 0.092,0.092 0 0 1 -0.122,0.039 z"
+               data-name="Path 193"
+               id="Path_193"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+          </g>
+          <g
+             transform="translate(3.478,3.995)"
+             data-name="Group 216"
+             id="Group_216">
+            <path
+               transform="translate(-349.255,-149.351)"
+               d="m 349.578,150.256 a 0.094,0.094 0 0 1 -0.02,-0.128 l 0.317,-0.556 a 0.09,0.09 0 0 1 0.118,-0.047 v 0 a 0.092,0.092 0 0 1 0.019,0.128 l -0.316,0.556 a 0.092,0.092 0 0 1 -0.119,0.048 z"
+               data-name="Path 194"
+               id="Path_194"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+            <path
+               transform="translate(-348.72,-149.043)"
+               d="m 348.756,149.782 a 0.094,0.094 0 0 1 -0.02,-0.128 l 0.316,-0.555 a 0.092,0.092 0 0 1 0.12,-0.048 v 0 a 0.093,0.093 0 0 1 0.018,0.128 l -0.317,0.556 a 0.091,0.091 0 0 1 -0.119,0.047 z"
+               data-name="Path 195"
+               id="Path_195"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+          </g>
+          <g
+             transform="translate(2.541,6.404)"
+             data-name="Group 217"
+             id="Group_217">
+            <path
+               transform="translate(-346.586,-156.226)"
+               d="m 346.919,157.135 a 0.1,0.1 0 0 1 -0.025,-0.127 l 0.291,-0.57 a 0.09,0.09 0 0 1 0.116,-0.053 v 0 a 0.092,0.092 0 0 1 0.025,0.126 l -0.289,0.57 a 0.093,0.093 0 0 1 -0.117,0.053 z"
+               data-name="Path 196"
+               id="Path_196"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+            <path
+               transform="translate(-346.037,-155.942)"
+               d="m 346.076,156.7 a 0.093,0.093 0 0 1 -0.026,-0.126 l 0.29,-0.569 a 0.091,0.091 0 0 1 0.117,-0.054 v 0 a 0.092,0.092 0 0 1 0.025,0.127 l -0.29,0.57 a 0.091,0.091 0 0 1 -0.117,0.052 z"
+               data-name="Path 197"
+               id="Path_197"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+          </g>
+          <g
+             transform="translate(7.909,0.877)"
+             data-name="Group 218"
+             id="Group_218">
+            <path
+               transform="translate(-361.908,-140.478)"
+               d="m 362.212,141.166 a 0.076,0.076 0 0 1 -0.024,-0.1 l 0.257,-0.362 a 0.073,0.073 0 0 1 0.105,-0.01 v 0 a 0.075,0.075 0 0 1 0.024,0.1 l -0.256,0.362 a 0.076,0.076 0 0 1 -0.105,0.01 z"
+               data-name="Path 198"
+               id="Path_198"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+            <path
+               transform="translate(-361.409,-140.116)"
+               d="m 361.445,140.608 a 0.077,0.077 0 0 1 -0.025,-0.1 l 0.257,-0.362 a 0.075,0.075 0 0 1 0.106,-0.009 v 0 a 0.076,0.076 0 0 1 0.024,0.1 l -0.257,0.362 a 0.074,0.074 0 0 1 -0.1,0.01 z"
+               data-name="Path 199"
+               id="Path_199"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+          </g>
+          <g
+             transform="translate(11.956,7.867)"
+             data-name="Group 219"
+             id="Group_219">
+            <path
+               transform="translate(-373.345,-160.639)"
+               d="m 373.543,161.422 a 0.1,0.1 0 0 1 0.038,-0.124 l 0.527,-0.364 a 0.09,0.09 0 0 1 0.128,0.008 v 0 a 0.093,0.093 0 0 1 -0.038,0.123 l -0.525,0.364 a 0.092,0.092 0 0 1 -0.128,-0.008 z"
+               data-name="Path 200"
+               id="Path_200"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+            <path
+               transform="translate(-372.997,-160.131)"
+               d="m 373.008,160.639 a 0.093,0.093 0 0 1 0.037,-0.124 l 0.525,-0.363 a 0.092,0.092 0 0 1 0.129,0.008 v 0 a 0.092,0.092 0 0 1 -0.038,0.123 l -0.527,0.364 a 0.091,0.091 0 0 1 -0.127,-0.009 z"
+               data-name="Path 201"
+               id="Path_201"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+          </g>
+          <g
+             transform="translate(9.977,9.025)"
+             data-name="Group 220"
+             id="Group_220">
+            <path
+               transform="translate(-367.64,-163.981)"
+               d="m 367.815,164.729 a 0.093,0.093 0 0 1 0.046,-0.12 l 0.552,-0.324 a 0.091,0.091 0 0 1 0.127,0.018 v 0 a 0.093,0.093 0 0 1 -0.047,0.121 l -0.551,0.324 a 0.092,0.092 0 0 1 -0.126,-0.019 z"
+               data-name="Path 202"
+               id="Path_202"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+            <path
+               transform="translate(-367.329,-163.447)"
+               d="m 367.338,163.908 a 0.094,0.094 0 0 1 0.046,-0.121 l 0.551,-0.323 a 0.092,0.092 0 0 1 0.128,0.018 v 0 a 0.093,0.093 0 0 1 -0.047,0.12 l -0.551,0.324 a 0.091,0.091 0 0 1 -0.127,-0.018 z"
+               data-name="Path 203"
+               id="Path_203"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+          </g>
+          <g
+             transform="translate(7.807,10.271)"
+             data-name="Group 221"
+             id="Group_221">
+            <path
+               transform="translate(-361.37,-167.418)"
+               d="m 361.514,168.01 a 0.073,0.073 0 0 1 0.033,-0.094 l 0.419,-0.265 a 0.069,0.069 0 0 1 0.1,0.01 v 0 a 0.071,0.071 0 0 1 -0.033,0.094 l -0.419,0.266 a 0.072,0.072 0 0 1 -0.1,-0.011 z"
+               data-name="Path 204"
+               id="Path_204"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+            <path
+               transform="translate(-361.117,-167.013)"
+               d="m 361.125,167.387 a 0.071,0.071 0 0 1 0.033,-0.094 l 0.418,-0.265 a 0.071,0.071 0 0 1 0.1,0.01 v 0 a 0.072,0.072 0 0 1 -0.033,0.094 l -0.418,0.265 a 0.07,0.07 0 0 1 -0.1,-0.011 z"
+               data-name="Path 205"
+               id="Path_205"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+          </g>
+          <g
+             transform="translate(14.209,6.627)"
+             data-name="Group 222"
+             id="Group_222">
+            <path
+               transform="translate(-379.817,-157.075)"
+               d="m 380.033,157.729 a 0.077,0.077 0 0 1 0.008,-0.107 l 0.354,-0.269 a 0.073,0.073 0 0 1 0.1,0.022 v 0 a 0.076,0.076 0 0 1 -0.008,0.106 l -0.353,0.269 a 0.075,0.075 0 0 1 -0.1,-0.022 z"
+               data-name="Path 206"
+               id="Path_206"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+            <path
+               transform="translate(-379.449,-156.579)"
+               d="m 379.466,156.967 a 0.078,0.078 0 0 1 0.008,-0.107 l 0.353,-0.268 a 0.075,0.075 0 0 1 0.1,0.022 v 0 a 0.077,0.077 0 0 1 -0.008,0.106 l -0.353,0.269 a 0.075,0.075 0 0 1 -0.1,-0.022 z"
+               data-name="Path 207"
+               id="Path_207"
+               inkscape:connector-curvature="0"
+               style="fill:#ffd6a6" />
+          </g>
+          <g
+             transform="translate(6.644,4.704)"
+             data-name="Group 223"
+             id="Group_223">
+            <path
+               transform="translate(-358.296,-151.42)"
+               d="m 358.6,152.316 a 0.094,0.094 0 0 1 -0.01,-0.129 l 0.358,-0.53 a 0.09,0.09 0 0 1 0.122,-0.038 v 0 a 0.092,0.092 0 0 1 0.009,0.128 l -0.357,0.53 a 0.092,0.092 0 0 1 -0.122,0.038 z"
+               data-name="Path 208"
+               id="Path_208"
+               inkscape:connector-curvature="0"
+               style="fill:#ffe0bc" />
+            <path
+               transform="translate(-357.785,-151.072)"
+               d="m 357.815,151.781 a 0.094,0.094 0 0 1 -0.01,-0.129 l 0.357,-0.529 a 0.092,0.092 0 0 1 0.123,-0.039 v 0 a 0.093,0.093 0 0 1 0.01,0.129 l -0.358,0.531 a 0.092,0.092 0 0 1 -0.122,0.038 z"
+               data-name="Path 209"
+               id="Path_209"
+               inkscape:connector-curvature="0"
+               style="fill:#ffe0bc" />
+          </g>
+          <g
+             transform="translate(5.1,7.165)"
+             data-name="Group 224"
+             id="Group_224">
+            <path
+               transform="translate(-353.891,-158.442)"
+               d="m 354.207,159.344 a 0.093,0.093 0 0 1 -0.016,-0.128 l 0.332,-0.547 a 0.091,0.091 0 0 1 0.12,-0.044 v 0 a 0.092,0.092 0 0 1 0.015,0.128 l -0.331,0.547 a 0.091,0.091 0 0 1 -0.12,0.043 z"
+               data-name="Path 210"
+               id="Path_210"
+               inkscape:connector-curvature="0"
+               style="fill:#ffe0bc" />
+            <path
+               transform="translate(-353.365,-158.119)"
+               d="m 353.4,158.847 a 0.094,0.094 0 0 1 -0.016,-0.129 l 0.331,-0.546 a 0.094,0.094 0 0 1 0.122,-0.044 v 0 a 0.093,0.093 0 0 1 0.016,0.128 l -0.332,0.547 a 0.093,0.093 0 0 1 -0.121,0.044 z"
+               data-name="Path 211"
+               id="Path_211"
+               inkscape:connector-curvature="0"
+               style="fill:#ffe0bc" />
+          </g>
+        </g>
+      </g>
+      <g
+         transform="translate(21.771,66.249)"
+         data-name="Group 227"
+         id="Group_227">
+        <path
+           transform="translate(-280.259,-203.432)"
+           d="m 280.259,203.752 0.092,5.384 a 35.339,35.339 0 0 0 13.589,4.937 l 0.44,-10.322 z"
+           data-name="Path 212"
+           id="Path_212"
+           inkscape:connector-curvature="0"
+           style="fill:#dc624b" />
+        <path
+           transform="translate(-321.27,-202.835)"
+           d="m 343.278,203.155 0.7,10.306 a 30.607,30.607 0 0 0 12.817,-4.55 l -0.047,-6.077 z"
+           data-name="Path 213"
+           id="Path_213"
+           inkscape:connector-curvature="0"
+           style="fill:#dc624b" />
+      </g>
+    </g>
+  </g>
+</svg>
