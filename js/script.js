@@ -601,7 +601,7 @@ function popupCenter({ url, title, w, h }){
     }
 
     //Event Countdown Timer
-    if ($(".time-countdown").length) {
+    if ($(".time-countdown").length && $.fn.countdown) {
         $(".time-countdown").each(function () {
             var $this = $(this),
                 finalDate = $(this).data("countdown");
@@ -620,7 +620,7 @@ function popupCenter({ url, title, w, h }){
     }
 
     //Custom Seclect Box
-    if ($(".custom-select-box").length) {
+    if ($(".custom-select-box").length && $.fn.selectmenu) {
         $(".custom-select-box")
             .selectmenu()
             .selectmenu("menuWidget")
@@ -628,19 +628,19 @@ function popupCenter({ url, title, w, h }){
     }
 
     //Jquery Spinner / Quantity Spinner
-    if ($(".quantity-spinner").length) {
+    if ($(".quantity-spinner").length && $.fn.TouchSpin) {
         $("input.quantity-spinner").TouchSpin({
             verticalbuttons: true
         });
     }
 
     //Gallery Filters
-    if ($(".filter-list").length) {
+    if ($(".filter-list").length && $.fn.mixItUp) {
         $(".filter-list").mixItUp({});
     }
 
     //LightBox / Fancybox
-    if ($(".lightbox-image").length) {
+    if ($(".lightbox-image").length && $.fn.fancybox) {
         $(".lightbox-image").fancybox({
             openEffect: "fade",
             closeEffect: "fade",
@@ -651,7 +651,7 @@ function popupCenter({ url, title, w, h }){
     }
 
     //Contact Form Validation
-    if ($("#contact-form").length) {
+    if ($("#contact-form").length && $.fn.validate) {
         $("#contact-form").validate({
             rules: {
                 username: {
@@ -811,6 +811,10 @@ function popupCenter({ url, title, w, h }){
 
     // Block Element
     function blockElement(id) {
+        if (!$.fn.block || !window.feather) {
+            return;
+        }
+
         $("#" + id).block({
             css: {
                 backgroundColor: 'transparent',
@@ -828,61 +832,63 @@ function popupCenter({ url, title, w, h }){
     }
 
     //rich text editor
-    var snowIndex = 1;
-    $(".snow-container").each(function () {
-        var containerId = "snow-container-" + snowIndex;
-        $(this).attr('id', containerId);
+    if (window.Quill && $(".snow-container").length) {
+        var snowIndex = 1;
+        $(".snow-container").each(function () {
+            var containerId = "snow-container-" + snowIndex;
+            $(this).attr('id', containerId);
 
-        var quill = new Quill('#' + containerId + ' .editor', {
-            bounds: '#' + containerId + ' .editor',
-            modules: {
-                formula: true,
-                toolbar: [
-                    [{ 'header': [1, 2, 3, 4, 5, 6, false] }, { 'font': [] }, { 'size': ['small', false, 'large', 'huge'] }],
-                    ['bold', 'italic', 'underline', 'strike', 'blockquote'],
-                    [{ 'color': [] }, { 'background': [] }],
-                    [{ 'align': [] }, { 'list': 'ordered' }, { 'list': 'bullet' }, { 'indent': '-1' }, { 'indent': '+1' }],
-                    ['link', 'image', 'video'],
-                    ['formula'],
-                    [{ 'script': 'sub' }, { 'script': 'super' }],
-                    [{ 'direction': 'rtl' }],
-                    ['clean']
-                ],
-                imageResize: {
-                    modules: ['Resize', 'DisplaySize', 'Toolbar']
-                }
-            },
-            theme: 'snow'
+            var quill = new Quill('#' + containerId + ' .editor', {
+                bounds: '#' + containerId + ' .editor',
+                modules: {
+                    formula: true,
+                    toolbar: [
+                        [{ 'header': [1, 2, 3, 4, 5, 6, false] }, { 'font': [] }, { 'size': ['small', false, 'large', 'huge'] }],
+                        ['bold', 'italic', 'underline', 'strike', 'blockquote'],
+                        [{ 'color': [] }, { 'background': [] }],
+                        [{ 'align': [] }, { 'list': 'ordered' }, { 'list': 'bullet' }, { 'indent': '-1' }, { 'indent': '+1' }],
+                        ['link', 'image', 'video'],
+                        ['formula'],
+                        [{ 'script': 'sub' }, { 'script': 'super' }],
+                        [{ 'direction': 'rtl' }],
+                        ['clean']
+                    ],
+                    imageResize: {
+                        modules: ['Resize', 'DisplaySize', 'Toolbar']
+                    }
+                },
+                theme: 'snow'
+            });
+
+            var submitableInput = $(this).parent().find('input.submitable');
+            var validatableInput = $(this).parent().find('input.validatable');
+
+            quill.on('text-change', function () {
+                var text = $("#" + containerId + " .editor .ql-editor").html();
+                submitableInput.val(htmlEncode(text));
+                validatableInput.val(stripTagsAndSpaces(text));
+            });
+
+            function htmlEncode(value) {
+                return $('<textarea/>').text(value).html();
+            }
+
+            function htmlDecode(html) {
+                var txt = document.createElement("textarea");
+                txt.innerHTML = html;
+                return txt.value;
+            }
+
+            function stripTagsAndSpaces(value) {
+                value = value.replace(/<[^>]*>?/gm, '');
+                value = htmlDecode(value);
+                value = value.replace(/\s/g, "");
+                return value;
+            }
+
+            snowIndex++;
         });
-
-        var submitableInput = $(this).parent().find('input.submitable');
-        var validatableInput = $(this).parent().find('input.validatable');
-
-        quill.on('text-change', function () {
-            var text = $("#" + containerId + " .editor .ql-editor").html();
-            submitableInput.val(htmlEncode(text));
-            validatableInput.val(stripTagsAndSpaces(text));
-        });
-
-        function htmlEncode(value) {
-            return $('<textarea/>').text(value).html();
-        }
-
-        function htmlDecode(html) {
-            var txt = document.createElement("textarea");
-            txt.innerHTML = html;
-            return txt.value;
-        }
-
-        function stripTagsAndSpaces(value) {
-            value = value.replace(/<[^>]*>?/gm, '');
-            value = htmlDecode(value);
-            value = value.replace(/\s/g, "");
-            return value;
-        }
-
-        snowIndex++;
-    });
+    }
 
 
 
